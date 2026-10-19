@@ -1,4 +1,4 @@
-package com.yourname.launcher;
+package com.fazlerabbi.porimap;
 
 import android.app.Activity;
 import android.os.Bundle;
